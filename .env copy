@@ -1,0 +1,13 @@
+SECRET_KEY='django-insecure-05e(y6()@d@qbmruc@xl+-+gmf(8bxadimwqv$*sa3ee@mmk&r'
+DEBUG=True
+ALLOWED_HOSTS=.localhost, ansar.kelasb22.my.id, .103.175.218.148
+ENGINE=django.db.backends.mysql
+DB_ENGINE=kelas_b
+USER=root
+DB_PASSWORD=
+DB_HOST=127.0.0.1
+DB_PORT=3306
+
+ON_SERVER=False
+
+CELERY_URL=
